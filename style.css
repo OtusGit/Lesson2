@@ -18,9 +18,16 @@
     border: 1px solid #000;
     width: 350px;
     height: 350px;
+    margin-bottom: 10px;
 }
 
 .footer {
     height: 200px;
     background-color: #2e353d;
+}
+
+.flex-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
