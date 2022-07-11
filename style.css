@@ -15,10 +15,16 @@
 }
 
 .item {
+
     border: 2px solid #000;
     width: 350px;
     height: 350px;
-    margin-bottom: 20px;
+    
+
+    width: 350px;
+    height: 350px;
+    margin-bottom: 30px;
+
 }
 
 .footer {
@@ -30,4 +36,15 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+}
+
+.button {
+    width: 100px;
+    height: 40px;
+    background-color: darkviolet;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+    margin: 200px auto 0;
+
 }
